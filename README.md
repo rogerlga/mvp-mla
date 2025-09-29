@@ -4,7 +4,7 @@ Este projeto aplica técnicas de **Machine Learning** utilizando dados operacion
 
 O notebook pode ser encontrado em:
 - Neste repositório do GitHub: [mvp_mla.ipynb (GitHub)](mvp_mla.ipynb)
-- Link para abertura no Google Colab: [mvp_mla.ipynb (Colab)](https://colab.research.google.com/github/rogerlga/mvp-adbp/blob/main/mvp_mla.ipynb)
+- Link para abertura no Google Colab: [mvp_mla.ipynb (Colab)](https://colab.research.google.com/github/rogerlga/mvp-mla/blob/main/mvp_mla.ipynb)
 
 A análise exploratória e o pré-processamento desses dados se encontram no trabalho de MVP anterior, elaborado pelo mesmo autor ([repositório](https://github.com/rogerlga/mvp-adbp)).
 
